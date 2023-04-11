@@ -1,0 +1,17 @@
+DEIXO O LINK DO MEU RELATORIO FEITO EM POWER BI
+
+https://app.powerbi.com/view?r=eyJrIjoiY2Y0YjdjYWMtMTg0OS00ZGNhLTgyYTUtZDU1YmM2Zjk3NGMxIiwidCI6ImE0NTY3M2U3LTlhOTItNGUyZC1hNjY1LWZiNjgyMTc2MzRkZSJ9
+
+Projeto de análise de dados e criação de dashboard interativo para acompanhamento de LOCADORA DE VEICULOS via POWER BI.
+(OS DADOS SÃO FICTÍCIOS)
+
+O objetivo da criação do Dashboard foi para VERIFICAR OS PRINCIPAIS INDICADORES que são:
+FATURAMENTO TOTAL        
+MÉDIA DE KM PERCORRIDO POR VEÍCULO
+CONSUMO POR CLIENTE
+QUANTIDADE DE CLIENTES
+MAIOR FATURAMENTO POR ANO
+
+Para sua criação foi utilizado de diferentes tipos de visualizações customizadas (gráfico de barras, gráfico de rosquinhas, matrizes de tabela, segmentações de dados, visualização de dados tratamento dos dados via SQL, Power Query, funções DAX e Linguagem M.etc.)
+
+No final do relatório fizemos uma tabela de previsão de 01 ano com base nos dados históricos da empresa dos últimos 06 anos.
